@@ -23,10 +23,16 @@ bio: My research interests include X.
 interests:
 
 education: 
-courses:
-- course: PhD in Epidemiology
-  institution: University of Georgia
-  year: Expected May 2020
+  courses:
+  - course: PhD in Epidemiology
+    institution: University of Georgia
+    year: Expected May 2020
+  - course: MPH in Health Policy
+    institution: University of Georgia
+    year: 2008
+  - course: MS in Chemistry
+    institution: University of Georgia
+    year: 2007
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -54,4 +60,4 @@ user_groups:
 - Faculty
 ---
 
-
+I am interested in X.
