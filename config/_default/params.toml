@@ -5,7 +5,7 @@
 #   Latest themes (may require updating Academic): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
-theme = "minimal"
+theme = "Rose"
 
 # Enable users to switch between day and night mode?
 day_night = true
@@ -155,7 +155,7 @@ sharing = true
   #   3: Card
   #   4: Citation (publications only)
   post_view = 2
-  publication_view = 2
+  publication_view = 4
   talk_view = 2
 
 # Comments.

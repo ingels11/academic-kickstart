@@ -5,8 +5,8 @@
 
 [[main]]
   name = "Home"
-  url = "#about"
-  weight = 10
+  url = "/"
+  weight = 1
 
 [[main]]
   name = "People"

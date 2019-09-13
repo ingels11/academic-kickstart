@@ -10,17 +10,22 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Director
+role: "Research Director"
 
 # Organizations/Affiliations
 organizations:
 - name: University of Georgia
   url: "https://publichealth.uga.edu/faculty-member/justin-b-ingels/"
 
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include X.
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.  
+user_groups:
+- Group Members
 
-interests:
+# Short bio (displayed in user profile at end of posts)
+bio: ""
+
+interests: ""
 
 education: 
   courses:
@@ -42,22 +47,25 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:ingels@uga.edu".
-- icon: 
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
   icon_pack: ai
   link: files/justin_ingels_cv.pdf
-- icon: linkedin
-  icon_pack: ai
-  link: https://www.linkedin.com/in/justin-ingels-9a903a3b/
+
+- icon: "linkedin"
+  icon_pack: "fab"
+  link: "https://www.linkedin.com/in/justin-ingels-9a903a3b/"
+
+- icon: "google-scholar"
+  icon_pack: "ai"
+  link: "https://scholar.google.com/citations?hl=en&user=IXsXgFAAAAAJ&view_op=list_works&sortby=pubdate"
+  
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "ingels@uga.edu"
   
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-- Faculty
+
 ---
 
-I am interested in X.
+
