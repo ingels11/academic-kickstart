@@ -1,28 +1,33 @@
 ---
 # Display name
-name: Kiran Thapa
+name: Phaedra Corso
 
 # Username (this should match the folder name)
 authors:
-- kiran_thapa
+- phaedra_corso
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Graduate Research Assistant
+role: "Vice President for Research, Kennesaw State University"
 
 # Organizations/Affiliations
 organizations:
-- name: University of Georgia
-  url: ""
+- name: Kennesaw State University
+  url: "https://research.kennesaw.edu/about/staff.php"
+
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.  
+user_groups:
+- "Affiliated Faculty"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: ""
 
-interests:
+interests: ""
 
-education:
+education: 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -31,19 +36,26 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:eerg@uga.edu".
+  link: '#contact'  # For a direct email link, use "mailto:pcorso@kennesaw.edu".
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
 #   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+#   link: files/justin_ingels_cv.pdf
+# 
+# - icon: "linkedin"
+#   icon_pack: "fab"
+#   link: "https://www.linkedin.com/in/justin-ingels-9a903a3b/"
+# 
+# - icon: "google-scholar"
+#   icon_pack: "ai"
+#   link: "https://scholar.google.com/citations?hl=en&user=IXsXgFAAAAAJ&view_op=list_works&sortby=pubdate"
   
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-- Graduate Students
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: "pcorso@kennesaw.edu"
+  
+
 ---
+
 

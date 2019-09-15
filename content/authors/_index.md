@@ -1,28 +1,40 @@
 ---
 # Display name
-name: Donglan "Stacy" Zhang
+name: First Last
 
 # Username (this should match the folder name)
 authors:
-- stacy_zhang
+- first_last
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: "Assistant Professor"
+role: "Current Position"
 
 # Organizations/Affiliations
 organizations:
-- name: University of Georgia Webpage
-  url: "https://publichealth.uga.edu/faculty-member/donglan-stacy-zhang/"
+- name: Organization Name
+  url: "web address"
+
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.  
+user_groups:
+- ["Group Members",
+   "Affiliated Faculty",
+   "Graduate Students",
+   "Alumni"]
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: ""
 
-interests:
+interests: ""
 
 education: 
+  courses:
+  - course: degree in area
+    institution: place
+    year: XXXX
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -32,23 +44,25 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:ingels@uga.edu".
-- icon: 
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-- icon: cv
-  icon_pack: ai
-  link: files/justin_ingels_cv.pdf
-- icon: linkedin
-  icon_pack: ai
-  link: https://www.linkedin.com/in/justin-ingels-9a903a3b/
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "dzhang@uga.edu"
+# - icon: cv
+#   icon_pack: ai
+#   link: files/justin_ingels_cv.pdf
+# 
+# - icon: "linkedin"
+#   icon_pack: "fab"
+#   link: "https://www.linkedin.com/in/justin-ingels-9a903a3b/"
+# 
+# - icon: "google-scholar"
+#   icon_pack: "ai"
+#   link: "https://scholar.google.com/citations?hl=en&user=IXsXgFAAAAAJ&view_op=list_works&sortby=pubdate"
   
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-- Affiliated Faculty
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: ""
+  
+
 ---
 
-Donglan "Stacy" Zhang is an assistant professor in the Department of Health Policy and Management. Her research focuses on estimating the economic burden of diseases and assessing the impact of health policies. 
 
