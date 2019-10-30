@@ -17,8 +17,7 @@ organizations:
 - name: Organization Name
   url: "web address"
 
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.  
+#   Select one of the following, remove the brackets but leave the quotes  
 user_groups:
 - ["Group Members",
    "Affiliated Faculty",
