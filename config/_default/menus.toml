@@ -9,6 +9,11 @@
   weight = 1
 
 [[main]]
+  name = "COVID-19"
+  url = "#covid"
+  weight = 10
+
+[[main]]
   name = "People"
   url = "#people"
   weight = 20
