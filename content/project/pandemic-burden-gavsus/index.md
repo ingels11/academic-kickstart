@@ -37,7 +37,7 @@ The maps show COVID-19 confirmed case and death rates in Georgia counties relati
 Takeaways:
 
 * Population adjusted COVID-19 cases, deaths, and fatality rates in Georgia (state average) are lower than in the US.  
-* Thirty-seven counties exceeded the national average on COVID-19 case count, 32 counties exceeded the national average on COVID-19 deaths and case fatality rates. For the list of counties, please follow the county list here. 
+* Thirty-seven counties exceeded the national average on COVID-19 case count, 32 counties exceeded the national average on COVID-19 deaths and case fatality rates. For the list of counties, please follow the county list {{% staticref "files/county_list_round1_map.pdf" "newtab" %}}here{{% /staticref %}}. 
 * These maps are based on data as of 28 April 2020. The pandemic is evolving, and we will update the maps every week. 
 
 [Return to previous page]({{< ref "/project/pandemic-burden/index.md" >}})
