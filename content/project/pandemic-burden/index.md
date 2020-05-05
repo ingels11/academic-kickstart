@@ -42,8 +42,15 @@ To inform Georgia stakeholders, public health districts, and health care coaliti
 
 [Georgia relative to the US]({{< ref "/project/pandemic-burden-gavsus/index.md" >}})
 
-[Georgia's counties relative to the state]({{< ref "/project/pandemic-burden-gavsga/index.md" >}})
+[159 counties relative to the state of Georgia]({{< ref "/project/pandemic-burden-gavsga/index.md" >}})
 
+[Socio-demographic and health vulnerability]({{< ref "/project/pandemic-burden-socio" >}})
+
+Health system capacity associated vulnerability
+
+Funding acknowledgment: University of Georgia President’s Interdisciplinary Seed Grant Program, NICHD, and NIMHD. 
+
+Please send your comments, questions, and suggestions to [EERG](mailto:eerg@uga.edu) OR [Dr. Thapa](mailto:jrthapa@uga.edu)
 
 [^longnote1]: Aylward, Bruce (WHO); Liang W (PRC). Report of the WHO-China Joint Mission on Coronavirus Disease 2019 (COVID-19). The WHO-China Joint Mission on Coronavirus Disease 2019. 2020;2019(February):16–24. 
      

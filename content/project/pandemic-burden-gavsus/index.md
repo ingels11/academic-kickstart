@@ -1,5 +1,5 @@
 ---
-title: Georgia relative to the US
+title: Georgia Relative to the US
 summary: ""
 tags:
 - covidSub
@@ -32,7 +32,7 @@ slides: example
 
 {{< figure src="gavsus.png" lightbox="true" >}}
 
-The maps show COVID-19 confirmed case and death rates in Georgia relative to the US. The case and death rates are adjusted to reflect rates per 10,000 population. The maps also showcase the fatality rate, which is the number of deaths per 100 confirmed cases in Georgia, relative to the US.
+The maps show COVID-19 confirmed case and death rates in Georgia counties relative to the US. The case and death rates are adjusted to reflect rates per 10,000 population. The maps also showcase the fatality rate, which is the number of deaths per 100 confirmed cases in Georgia, relative to the US.
 
 Takeaways:
 
