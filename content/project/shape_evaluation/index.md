@@ -44,3 +44,5 @@ The goal of our evaluation has been to assess population awareness of the SHAPE 
 ### Publications
 
 Our first publication has focused on the variables that impact school implementation of the SHAPE policy, find out more [here]({{< ref "/publication/thapa-2020-longitudinal/index.md" >}}).
+
+
