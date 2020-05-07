@@ -1,8 +1,8 @@
 ---
 title: Georgia Relative to the US
-summary: ""
+summary: "Click to see more"
 tags:
-- covidSub
+- covid
 date: "2020-04-30T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
