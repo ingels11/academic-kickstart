@@ -3,7 +3,7 @@
 widget = "blank"  # Do not modify this line!
 headless = true  # Homepage is headless, other widget pages are not.
 active = true  # Activate this widget? true/false
-weight = 1  # Order that this section will appear.
+weight = 3  # Order that this section will appear.
 date = 2019-09-04
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
@@ -42,9 +42,10 @@ date = 2019-09-04
  # CSS class.
  # css_class = ""
 
+# {{< figure library="true" src="uga_cph_eerg.png" lightbox="true" >}}
 +++
 
-{{< figure library="true" src="uga_cph_eerg.png" lightbox="true" >}}
+
 
 The Economic Evaluation Research Group (EERG) is located in the Department of
 Health Policy and Management at the University of Georgia. We provide an infrastructure to conduct economic evaluations, quantitative and qualitative analyses of health policies, chronic disease  modeling, and evaluations of public health interventions and programs. 
