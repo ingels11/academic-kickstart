@@ -13,4 +13,5 @@ There was an overall significant increase in total physical activity opportuniti
 The change in physical activity opportunities was not the same across schools and school characteristics predicted the magnitude of change. Additional efforts at the local level might be needed for equitable policy implementation based on schools’ geographical location and poverty level of the student population."
 featured: true
 publication: "*Plos One*"
+doi: "10.1371/journal.pone.0228716"
 ---

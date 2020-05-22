@@ -7,5 +7,6 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Prevention Science*"
+doi: "10.1007/s11121-018-0895-4"
 ---
 

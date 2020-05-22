@@ -7,5 +7,6 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Journal of occupational and environmental medicine*"
+doi: "10.1097/JOM.0000000000001343"
 ---
 

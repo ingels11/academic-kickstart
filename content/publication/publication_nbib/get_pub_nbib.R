@@ -20,6 +20,8 @@ get_pub <- function(filename) {
       break
     }
   }
+  # Remove period if needed
+  title <- str_remove(title, ".$")
 
   lid_num <- which(str_detect(data, "^LID"))
   doi <- str_remove(data[lid_num], "LID\\s+-\\s+")
@@ -99,6 +101,7 @@ get_pub <- function(filename) {
   write_lines(paste0("abstract: ", '"', abstract, '"'), tmp, append = TRUE)
   write_lines(paste0("featured: false"), tmp, append = TRUE)
   write_lines(paste0("publication: \"*", journal, "*\""), tmp, append = TRUE)
+  write_lines(paste0("doi: ", '"', doi, '"'), tmp, append = TRUE)
   write_lines("---", tmp)
   close(tmp)
   # write_file(tmp, "content/publication/publication_nbib/index.md")
