@@ -44,11 +44,11 @@ Takeaways:
 
 {{< figure src="table1.png" lightbox="true" >}}
 
-**Counties and COVID-19 case incidence (number per 10,000 person) by month**
+**Counties and COVID-19 case cumulative incidence (cases per 10,000 population) by month**
 
 {{< figure src="table2.png" lightbox="true" >}}
 
-There are two counties with incidence in the 301 to 500 per 10k rate, they are Chattahoochee, Echols.
+There are two counties with a cumulative incidence in the 301 to 500 per 10,000 population, they are Chattahoochee, Echols.
 We will continue tracking the pandemic on a monthly basis.
 
 [Return to previous page]({{< ref "/project/pandemic-burden/index.md" >}})
