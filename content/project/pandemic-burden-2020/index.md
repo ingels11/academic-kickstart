@@ -38,6 +38,19 @@ The maps shows the following for 2020:
 2.	Number of COVID-19 cases 
 3.	Cumulative incidence per 10,000 population
 
+Takeaways:
+
+**Counties and the total number of COVID-19 cases for 202**
+
+{{< figure src="table1.png" lightbox="true" >}}
+
+There were four counties with cases in the 30,000 to 55,000 in 2020: DeKalb, Gwinnett, Fulton, Cobb.
+
+**Counties and COVID-19 case cumulative incidence (cases per 10,000 population) for 2020**
+
+{{< figure src="table2.png" lightbox="true" >}}
+
+There were three counties with a cumulative incidence in the 1000 to 2000 per 10,000 population in 2020: Chattahoochee, Whitfield, Stewart.
 
 [Return to previous page]({{< ref "/project/pandemic-burden/index.md" >}})
 
