@@ -18,12 +18,12 @@ organizations:
 
 #   Select one of the following, remove the brackets but leave the quotes  
 user_groups:
-- 
-   "Graduate Students"
+- "Graduate Students"
 
 # Short bio (displayed in user profile at end of posts)
+bio: ""
 
-interests: "Obesity, Nutrition, Workplace Wellness, Physical Activity, Chronic Disease Prevention, Sedentary Behavior, Population Health"
+interests: ""
 
 
 # Social/Academic Networking
@@ -33,18 +33,17 @@ interests: "Obesity, Nutrition, Workplace Wellness, Physical Activity, Chronic D
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:kathryn.chiang3@uga.edu'
+  link: 'mailto:kathrynchiang3@uga.edu'
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
- - icon: cv
+- icon: cv
    icon_pack: ai
    link: files/kathryn_chiang_cv.pdf
 
-
   
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-
+email: ""
   
 
 ---
