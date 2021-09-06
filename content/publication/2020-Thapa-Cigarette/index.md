@@ -1,6 +1,6 @@
 ---
 title: "Cigarette and Electronic Vape Product use Among High School Students in Georgia, 2015-2018."
-date: 2021-09-06
+date: 2020-09-01
 publishDate: 2020-09-01T20:25:52.683658Z
 authors: ["Justin B Ingels", "Kiran Thapa", "Sunder Shrestha", "Janani Rajbhandari-Thapa"]
 publication_types: ["2"]

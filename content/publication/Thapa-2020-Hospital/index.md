@@ -1,6 +1,6 @@
 ---
 title: "Weekend Effect on in-Hospital Mortality for Ischemic and Hemorrhagic Stroke in US Rural and Urban Hospitals."
-date: 2021-09-06
+date: 2020-08-12
 publishDate: 2020-08-12T20:25:52.683658Z
 authors: ["Birook Mekonnen", "Guijing Wang", "Janani Rajbhandari-Thapa", "Kiran Thapa", "Zheng Zhang", "Donglan Zhang"]
 publication_types: ["2"]

@@ -1,6 +1,6 @@
 ---
 title: "Non-communicable diseases are key to further narrow gender gap in life expectancy in Shanghai, China"
-date: 2021-09-06
+date: 2020-06-03
 publishDate: 2020-06-03T20:25:52.683658Z
 authors: ["Hanyi Chen", "Yi Zhou", "Lianghong Sun", "Yichen Chen", "Xiaoben Qu", "Hua Chen", "Janani Rajbhandari-Thapa", "Shaotan Xiao"]
 publication_types: ["2"]
