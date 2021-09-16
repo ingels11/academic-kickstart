@@ -3,7 +3,7 @@ title: Artificial Intelligence and Mental Health
 summary: Click to see more
 tags:
 - eerg
-- AI
+- projects
 date: "2021-09-16T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
