@@ -3,7 +3,8 @@ title: Artificial Intelligence and Mental Health
 summary: Click to see more
 tags:
 - eerg
-- projects
+- AI
+
 date: "2021-09-16T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -31,7 +32,7 @@ url_video: ""
 slides: example
 ---
 
-## Evaluation of a Statewide Policy Mandating School-based Fitness Assessment 
+## Evaluation of placeholder
 
 Placeholder
 
