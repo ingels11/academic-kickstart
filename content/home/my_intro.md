@@ -3,7 +3,7 @@
 widget = "blank"  # Do not modify this line!
 headless = true  # Homepage is headless, other widget pages are not.
 active = true  # Activate this widget? true/false
-weight = 3  # Order that this section will appear.
+weight = 2  # Order that this section will appear.
 date = 2019-09-04
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
