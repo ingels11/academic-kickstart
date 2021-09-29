@@ -13,7 +13,6 @@ header:
   image: ""
 ---
 
-{{< toc >}}
 
 ## **Artificial Intelligence and Mental Health**
 
