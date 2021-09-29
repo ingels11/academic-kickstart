@@ -11,12 +11,12 @@
 [[main]]
   name = "COVID-19"
   url = "#covid"
-  weight = 10
+  weight = 20
 
 [[main]]
   name = "People"
   url = "#people"
-  weight = 20
+  weight = 30
 
 [[main]]
   name = "Publications"
