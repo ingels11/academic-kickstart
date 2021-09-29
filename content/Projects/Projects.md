@@ -1,14 +1,20 @@
 ---
-title: Posts
+title: Ongoing Projects
+date: "2018-06-28T00:00:00Z"
 
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-view: 2
+reading_time: false  # Show estimated reading time?
+share: false  # Show social sharing links?
+profile: false  # Show author profile?
+comments: false  # Show comments?
 
-# Optional header image (relative to `static/img/` folder).
+# Optional header image (relative to `assets/media/` folder).
 header:
   caption: ""
   image: ""
 ---
+
+{{< toc >}}
+
+## **Artificial Intelligence and Mental Health**
+
+Placeholder
