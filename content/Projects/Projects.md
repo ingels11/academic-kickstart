@@ -16,8 +16,6 @@ header:
 
 ## **Artificial Intelligence and Mental Health**
 
-Placeholder
-
 ## **Childhood Obesity**
 
 ## **Community Health Promoters Program**
