@@ -10,11 +10,11 @@ authors:
 superuser: false
 
 # Role/position
-role: "Health Economics and Market Access Consultant"
+role: "Data Scientist and Market Access"
 
 # Organizations/Affiliations
 organizations:
-- name: Global Market Access Solutions
+- name: Intuitive Surgical
   url: 
 
 # Organizational groups that you belong to (for People widget)
