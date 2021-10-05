@@ -32,7 +32,7 @@ height = "300px"
   cta_label = "Learn More"
   cta_url = "https://careers.intuitive.com/us/en/job/213703/MACA-Analyst-Data-Scientist-3"
   cta_icon_pack = "fas"
-  cta_icon = "graduation-cap"
+  cta_icon = ""
 
 [[item]]
   title = "Ongoing Projects"
@@ -51,7 +51,7 @@ height = "300px"
   cta_label = "Learn More"
   cta_url = "https://eerg.publichealth.uga.edu/projects/projects/"
   cta_icon_pack = "fas"
-  cta_icon = "graduation-cap"
+  cta_icon = ""
 
 
 [[item]]
@@ -71,6 +71,6 @@ height = "300px"
   cta_label = "Learn More"
   cta_url = "https://eerg.publichealth.uga.edu/publication/"
   cta_icon_pack = "fas"
-  cta_icon = "graduation-cap"
+  cta_icon = ""
 
 +++
