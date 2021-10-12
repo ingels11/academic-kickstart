@@ -1,6 +1,6 @@
 ---
 title: Artificial Intelligence and Mental Health
-summary: 
+summary: ""
 tags:
 - eerg
 - AI

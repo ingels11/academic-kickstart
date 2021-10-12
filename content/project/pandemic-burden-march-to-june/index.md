@@ -1,6 +1,6 @@
 ---
 title: Cases and incidence from March to June with vulnerability index
-summary: 
+summary: ""
 tags:
 - covid
 date: "2020-07-30T00:00:00Z"

@@ -1,6 +1,6 @@
 ---
 title: SHAPE Evaluation
-summary: 
+summary: ""
 tags:
 - eerg
 - shape

@@ -1,6 +1,6 @@
 ---
 title: Socio-demographic and health vulnerability
-summary: 
+summary: ""
 tags:
 - covid
 date: "2020-05-04T00:00:00Z"

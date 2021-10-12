@@ -1,6 +1,6 @@
 ---
 title: Teaming for Interdisiplinary Research Pre-Seed Program
-summary: 
+summary: ""
 tags:
 - eerg
 - AI
@@ -32,17 +32,6 @@ url_video: ""
 slides: example
 ---
 
-## Evaluation of placeholder
 
-Placeholder
-
-
-### EERG Evaluation
-
-Placeholder
-
-### Publications
-
-Placeholder
 
 

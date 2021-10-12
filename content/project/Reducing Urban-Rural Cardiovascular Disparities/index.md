@@ -1,6 +1,6 @@
 ---
 title: Using agent-based modeling to compare strategies that can reduce urban-rural disparities in cardiovascular disease
-summary: 
+summary: ""
 tags:
 - eerg
 - AI

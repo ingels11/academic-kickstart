@@ -1,6 +1,6 @@
 ---
 title: 159 Counties Relative to the State of Georgia
-summary: 
+summary: ""
 tags:
 - covid
 date: "2020-05-04T00:00:00Z"

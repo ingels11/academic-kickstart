@@ -1,6 +1,6 @@
 ---
 title: Local Modeling for Hospital Preparedness
-summary: 
+summary: ""
 tags:
 - covid
 date: "2020-04-30T00:00:00Z"
