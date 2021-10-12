@@ -32,17 +32,6 @@ url_video: ""
 slides: example
 ---
 
-## Evaluation of placeholder
 
-Placeholder
-
-
-### EERG Evaluation
-
-Placeholder
-
-### Publications
-
-Placeholder
 
 
