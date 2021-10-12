@@ -1,6 +1,6 @@
 ---
 title: Return on Investment of Behavioral Mental Health Reform and Innovation in the State of Georgia
-summary: Click to see more
+summary: 
 tags:
 - eerg
 - AI

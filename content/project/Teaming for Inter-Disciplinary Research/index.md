@@ -1,6 +1,6 @@
 ---
 title: Teaming for Interdisiplinary Research Pre-Seed Program
-summary: Click to see more
+summary: 
 tags:
 - eerg
 - AI

@@ -1,6 +1,6 @@
 ---
 title: Georgia Relative to the US
-summary: "Click to see more"
+summary: 
 tags:
 - covid
 date: "2020-04-30T00:00:00Z"

@@ -1,6 +1,6 @@
 ---
 title: Childhood obesity policy implementation and built environment in Georgia
-summary: Click to see more
+summary: 
 tags:
 - eerg
 - AI

@@ -1,6 +1,6 @@
 ---
 title: Community Health Promotors Program in Puerto Rico
-summary: Click to see more
+summary: 
 tags:
 - eerg
 - Puerto Rico

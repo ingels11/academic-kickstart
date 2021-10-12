@@ -1,6 +1,6 @@
 ---
 title: Disparate Burden of the Pandemic on Georgia Communities
-summary: Click to see more
+summary: 
 tags:
 - covid
 date: "2020-04-30T00:00:00Z"
