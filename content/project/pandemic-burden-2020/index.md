@@ -1,6 +1,6 @@
 ---
 title: Cases and cumulative incidence for 2020 with vulnerability index
-summary:""
+summary: 'Cases and cumulative incidence test'
 tags:
 - covid
 date: "2020-07-30T00:00:00Z"
