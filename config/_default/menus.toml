@@ -24,7 +24,7 @@
   weight = 40
 [[main]]
   name = "News"
-  url = "https://eerg.publichealth.uga.edu/Media"
+  url = "#Media"
   weight = 50
 [[main]]
   name = "Contact"
