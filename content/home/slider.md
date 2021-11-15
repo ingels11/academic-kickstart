@@ -16,7 +16,7 @@ height = "300px"
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Career Opportunities"
+  title = "EERG News"
   content = ""
   align = "center"  # Choose `center`, `left`, or `right`.
 
@@ -30,7 +30,7 @@ height = "300px"
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "Learn More"
-  cta_url = "https://careers.intuitive.com/us/en/job/213703/MACA-Analyst-Data-Scientist-3"
+  cta_url = "https://www.georgiahealthnews.com/2021/10/georgians-struggling-afford-health-care-survey/"
   cta_icon_pack = "fas"
   cta_icon = ""
 
