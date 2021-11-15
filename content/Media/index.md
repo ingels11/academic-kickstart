@@ -15,5 +15,7 @@ header:
 ---
 
 [Georgia Health News](https://www.georgiahealthnews.com/2021/10/georgians-struggling-afford-health-care-survey/)
+
 [Curbing the Obesity Epidemic](https://research.uga.edu/news/curbing-the-obesity-epidemic/)
+
 [Mapping the Unequal Impact of Covid-19](https://news.uga.edu/researchers-map-unequal-impact-covid-19/)
