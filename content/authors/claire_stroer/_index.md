@@ -23,9 +23,9 @@ user_groups:
 - "Alumni"
 
 # Short bio (displayed in user profile at end of posts)
-bio: "Claire is a public health professional working on the Council’s impairment initiatives. Claire is responsible for planning, implementing and evaluating the council’s impairment initiatives, such as addressing workplace substance misuse and fatigue. This entails researching relevant topics and providing analysis for technical reports and initiatives to strategize and build future programs"
+bio: ""
 
-interests: "Claire is a public health professional working on the Council’s impairment initiatives. Claire is responsible for planning, implementing and evaluating the council’s impairment initiatives, such as addressing workplace substance misuse and fatigue. This entails researching relevant topics and providing analysis for technical reports and initiatives to strategize and build future programs"
+interests: ""
 
 education:
 
@@ -58,4 +58,4 @@ email: ""
 
 ---
 
-
+Claire is a public health professional working on the Council’s impairment initiatives. Claire is responsible for planning, implementing and evaluating the council’s impairment initiatives, such as addressing workplace substance misuse and fatigue. This entails researching relevant topics and providing analysis for technical reports and initiatives to strategize and build future programs.

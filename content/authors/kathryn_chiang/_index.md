@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Obesity, Nutrition, Workplace Wellness, Physical Activity, Chronic Disease Prevention, Sedentary Behavior, Population Health.
+bio: 
 
 interests:
 
@@ -50,3 +50,4 @@ user_groups:
 - Graduate Students
 ---
 
+Kathyrn's research interests include: Obesity, Nutrition, Workplace Wellness, Physical Activity, Chronic Disease Prevention, Sedentary Behavior, Population Health.
