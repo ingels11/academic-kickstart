@@ -19,3 +19,11 @@ header:
 [Curbing the Obesity Epidemic](https://research.uga.edu/news/curbing-the-obesity-epidemic/)
 
 [Mapping the Unequal Impact of Covid-19](https://news.uga.edu/researchers-map-unequal-impact-covid-19/)
+
+[Medicaid expansion increases coverage but at slower rates for obese adults](https://publichealth.uga.edu/medicaid-expansion-increases-insurance-coverage-but-at-slower-rates-for-obese-adults/)
+
+[Chronic disease prevention could ease the opioid crisis](https://news.uga.edu/chronic-disease-prevention-ease-opioid-crisis/)
+
+[Native-born Californians who live near large immigrant populations eat healthier](https://journalistsresource.org/studies/government/immigration/immigrants-healthy-food- neighborhood-research/)
+
+[Research shows food presentation can affect eating behaviors](https://news.uga.edu/partitioning-vegetables-increase-consumption/)
