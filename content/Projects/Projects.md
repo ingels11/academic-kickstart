@@ -32,7 +32,17 @@ Obesity, hypertension, hyperlipidemia, and diabetes are prevalent among low-inco
 
 ## **Local Modeling**
 
+[Trajectories of Medical School Application and Matriculation](https://eerg.publichealth.uga.edu/publication/thapa-2021-rurality/)
+
+[Implications for Health Disparities](https://eerg.publichealth.uga.edu/publication/thapa-2020-trends/)
+
+[Changes in the Rural and Urban Primary Care Workforce](https://eerg.publichealth.uga.edu/publication/thapa-2020-workforce/)
+
+[Evaluating the impact of improving access to the consumption of fruits and vegetables](https://eerg.publichealth.uga.edu/publication/katapodis-2019-evaluating/)
+
 ## **Pandemic Burden**
+
+[Using Influence Vaccination Data to expand Covid-19 Vaccine Coverage](https://eerg.publichealth.uga.edu/publication/thapa-2021-influenza/)
 
 ## **Prevalence of Vitamin D Deficiency**
 
@@ -49,3 +59,9 @@ The researchers at EERG are assessing the cost of Behavioral Mental Health (BMH)
 ## **Shape Evaluation**
 
 Obesity is a major issue facing the U.S. In 2012 the average levels of obesity per state was 28% for adults and 15.3% for youths 10-17. Additionally, the medical costs for complications relating to obesity are immense. To combat obesity trends, many states have enacted policies encouraging physical activity and improved nutrition in schools. In the state of Georgia this program is referred to as the Georgia Student Health and Physical Education Act (SHAPE). While many states have enacted these policies there have been few statewide evaluations of the efficacy and impact of these policies. This project aims to assess the awareness of SHAPE among the public, evaluate the implementation of SHAPE, determine SHAPE's impact on physical activity opportunities and fitness.
+
+[Physical Activity and Screen Time](https://eerg.publichealth.uga.edu/publication/thapa-2021-screetime/)
+
+[Implementation of a Statewide Policy Mandating School-Based Fitness Assessment Screening](https://eerg.publichealth.uga.edu/publication/thapa-2020-statewide/)
+
+[Evaluation of School Characteristics on changes in physical opportunities](https://eerg.publichealth.uga.edu/publication/thapa-2020-longitudinal/)
