@@ -27,3 +27,17 @@ header:
 [Native-born Californians who live near large immigrant populations eat healthier](https://journalistsresource.org/studies/government/immigration/immigrants-healthy-food- neighborhood-research/)
 
 [Research shows food presentation can affect eating behaviors](https://news.uga.edu/partitioning-vegetables-increase-consumption/)
+
+[Researchers use modeling to help rural communities eat more fruits and vegetables](https://publichealth.uga.edu/uga-uses-modeling-to-help-rural-communities-eat-more-fruits- veggies/)
+
+[Researchers find evidence of how obesity programs can work long-term](https://publichealth.uga.edu/uga-shanghai-researchers-find-evidence-of-how-obesity- programs-can-work-long-term/)
+
+[UGA experts are on the frontline of childhood obesity](http://medicalpartnership.usg.edu/?/news/article/childhood-obesity-uga-experts-are-on-the- front-line)
+
+[School lunchroom staff can help kids make healthier food choices](https://ugaresearch.uga.edu/school-lunchroom-staff-can-help-kids-make-healthier-food- choices/)
+
+[Georgia Obesity Initiatives](https://www.aspph.org/georgia-obesity-initiatives-2/)
+
+[Training prompts school cafeteria staff to promote healthier foods in school lunchrooms](https://www.aspph.org/georgia-study-shows-training-prompts-school- cafeteria-staff-to-promote-healthier-foods-school-lunchrooms/)
+
+[Toys motivate children to eat a healthier diet](https://news.uga.edu/toys-motivate-children-to-eat-a-healthier-diet/)
