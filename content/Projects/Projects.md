@@ -30,19 +30,6 @@ In this project, we are conducting an economic evaluation of the Community Healt
 
 Obesity, hypertension, hyperlipidemia, and diabetes are prevalent among low-income and medically underserved populations. Despite the effectiveness of pharmaceutical care and behavioral therapy many individuals still struggle with disease management. We propose that using a technology enhanced health coaching intervention can assist in treatment and management of chronic diseases for vulnerable populations. We will be implementing text messaging and tele-monitoring interventions in conjunction with existing interventions to evaluate the efficacy of technology enhanced therapies on residents of Clarke County as well as five surrounding counties.
 
-## **Local Modeling**
-
-[Trajectories of Medical School Application and Matriculation](https://eerg.publichealth.uga.edu/publication/thapa-2021-rurality/)
-
-[Implications for Health Disparities](https://eerg.publichealth.uga.edu/publication/thapa-2020-trends/)
-
-[Changes in the Rural and Urban Primary Care Workforce](https://eerg.publichealth.uga.edu/publication/thapa-2020-workforce/)
-
-[Evaluating the impact of improving access to the consumption of fruits and vegetables](https://eerg.publichealth.uga.edu/publication/katapodis-2019-evaluating/)
-
-## **Pandemic Burden**
-
-[Using Influence Vaccination Data to expand Covid-19 Vaccine Coverage](https://eerg.publichealth.uga.edu/publication/thapa-2021-influenza/)
 
 ## **Prevalence of Vitamin D Deficiency**
 
@@ -56,6 +43,8 @@ Rural populations have higher rates of mortality, prevalence, and economic burde
 
 The researchers at EERG are assessing the cost of Behavioral Mental Health (BMH) among children and adolescents in the state of Georgia. Findings from this assessment will inform state policymakers on the cost-saving potential of BMH reform and intervention
 
+## **Complete Projects
+
 ## **Shape Evaluation**
 
 Obesity is a major issue facing the U.S. In 2012 the average levels of obesity per state was 28% for adults and 15.3% for youths 10-17. Additionally, the medical costs for complications relating to obesity are immense. To combat obesity trends, many states have enacted policies encouraging physical activity and improved nutrition in schools. In the state of Georgia this program is referred to as the Georgia Student Health and Physical Education Act (SHAPE). While many states have enacted these policies there have been few statewide evaluations of the efficacy and impact of these policies. This project aims to assess the awareness of SHAPE among the public, evaluate the implementation of SHAPE, determine SHAPE's impact on physical activity opportunities and fitness.
@@ -65,3 +54,17 @@ Obesity is a major issue facing the U.S. In 2012 the average levels of obesity p
 [Implementation of a Statewide Policy Mandating School-Based Fitness Assessment Screening](https://eerg.publichealth.uga.edu/publication/thapa-2020-statewide/)
 
 [Evaluation of School Characteristics on changes in physical opportunities](https://eerg.publichealth.uga.edu/publication/thapa-2020-longitudinal/)
+
+## **Local Modeling**
+
+[Trajectories of Medical School Application and Matriculation](https://eerg.publichealth.uga.edu/publication/thapa-2021-rurality/)
+
+[Implications for Health Disparities](https://eerg.publichealth.uga.edu/publication/thapa-2020-trends/)
+
+[Changes in the Rural and Urban Primary Care Workforce](https://eerg.publichealth.uga.edu/publication/thapa-2020-workforce/)
+
+[Evaluating the impact of improving access to the consumption of fruits and vegetables](https://eerg.publichealth.uga.edu/publication/katapodis-2019-evaluating/)
+
+## **Pandemic Burden**
+
+[Using Influence Vaccination Data to expand Covid-19 Vaccine Coverage](https://eerg.publichealth.uga.edu/publication/thapa-2021-influenza/)
