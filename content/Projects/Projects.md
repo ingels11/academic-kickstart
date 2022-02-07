@@ -28,7 +28,7 @@ In this project, we are conducting an economic evaluation of the Community Healt
 
 ## **Health Coaching Interventions**
 
-Obesity, hypertension, hyperlipidemia, and diabetes are prevalent among low-income and medically underserved populations. Despite the effectiveness of pharmaceutical care and behavioral therapy many individuals still struggle with disease management. We propose that using a technology enhanced health coaching intervention can assist in treatment and management of chronic diseases for vulnerable populations. We will be implementing text messaging and tele-monitoring interventions in conjunction with existing interventions to evaluate the efficacy of technology enhanced therapies on residents of Clarke County as well as five surrounding counties.
+Obesity, hypertension, hyperlipidemia, and diabetes are prevalent among low-income and medically under-served populations. Despite the effectiveness of pharmaceutical care and behavioral therapy many individuals still struggle with disease management. We propose that using a technology enhanced health coaching intervention can assist in treatment and management of chronic diseases for vulnerable populations. We will be implementing text messaging and telemonitoring interventions in conjunction with existing interventions to evaluate the efficacy of technology enhanced therapies on residents of Clarke County as well as five surrounding counties.
 
 
 ## **Prevalence of Vitamin D Deficiency**
@@ -43,7 +43,7 @@ Rural populations have higher rates of mortality, prevalence, and economic burde
 
 The researchers at EERG are assessing the cost of Behavioral Mental Health (BMH) among children and adolescents in the state of Georgia. Findings from this assessment will inform state policymakers on the cost-saving potential of BMH reform and intervention
 
-## **Complete Projects
+## Completed Projects
 
 ## **Shape Evaluation**
 
@@ -53,7 +53,7 @@ Obesity is a major issue facing the U.S. In 2012 the average levels of obesity p
 
 [Implementation of a Statewide Policy Mandating School-Based Fitness Assessment Screening](https://eerg.publichealth.uga.edu/publication/thapa-2020-statewide/)
 
-[Evaluation of School Characteristics on changes in physical opportunities](https://eerg.publichealth.uga.edu/publication/thapa-2020-longitudinal/)
+[Evaluation of School Characteristics on Changes in Physical Opportunities](https://eerg.publichealth.uga.edu/publication/thapa-2020-longitudinal/)
 
 ## **Local Modeling**
 
@@ -63,8 +63,8 @@ Obesity is a major issue facing the U.S. In 2012 the average levels of obesity p
 
 [Changes in the Rural and Urban Primary Care Workforce](https://eerg.publichealth.uga.edu/publication/thapa-2020-workforce/)
 
-[Evaluating the impact of improving access to the consumption of fruits and vegetables](https://eerg.publichealth.uga.edu/publication/katapodis-2019-evaluating/)
+[Evaluating the Impact of Improving Access to the Consumption of Fruits and Vegetables](https://eerg.publichealth.uga.edu/publication/katapodis-2019-evaluating/)
 
 ## **Pandemic Burden**
 
-[Using Influence Vaccination Data to expand Covid-19 Vaccine Coverage](https://eerg.publichealth.uga.edu/publication/thapa-2021-influenza/)
+[Using Influenza Vaccination Data to Expand Covid-19 Vaccine Coverage](https://eerg.publichealth.uga.edu/publication/thapa-2021-influenza/)
