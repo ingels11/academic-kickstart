@@ -2,15 +2,15 @@
 # A Projects section created with the Portfolio widget.
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "Projects"
-subtitle = ""
+subtitle = "EERG's Current Projects"
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "project"
+  page_type = "Projects"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -23,7 +23,7 @@ subtitle = ""
   
   [[content.filter_button]]
     name = "All"
-    tag = "eerg"
+    tag = "*"
   
   # [[content.filter_button]]
   #   name = "Deep Learning"
