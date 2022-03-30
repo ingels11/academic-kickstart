@@ -10,7 +10,7 @@ subtitle = "EERG's Current Projects"
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "Projects"
+  page_type = "project"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.

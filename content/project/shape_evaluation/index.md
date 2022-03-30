@@ -45,4 +45,10 @@ The goal of our evaluation has been to assess population awareness of the SHAPE 
 
 Our first publication has focused on the variables that impact school implementation of the SHAPE policy, find out more [here]({{< ref "/publication/thapa-2020-longitudinal/index.md" >}}).
 
+[Physical Activity and Screen Time](https://eerg.publichealth.uga.edu/publication/thapa-2021-screetime/)
+
+[Implementation of a Statewide Policy Mandating School-Based Fitness Assessment Screening](https://eerg.publichealth.uga.edu/publication/thapa-2020-statewide/)
+
+[Evaluation of School Characteristics on Changes in Physical Opportunities](https://eerg.publichealth.uga.edu/publication/thapa-2020-longitudinal/)
+
 

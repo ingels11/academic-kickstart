@@ -32,4 +32,4 @@ url_video: ""
 slides: example
 ---
 
-Work in Progress
+Pregnant women are at risk of Vitamin D deficiency, which can lead to Rickets and other bone diseases as well as death in infancy and early childhood due to hypocalcemic cardiomyopathy. The national prevalence of Rickets remains unknown. However, racial and ethnic minorities are at increased rates of rickets and other Vitamin D deficiency conditions. Additionally, preterm birth is associated with Vitamin D deficiency and occurs in higher rates among minority populations. The goal of the current study is to assess the prevalence of cord blood Vitamin D deficiency and to identify differences across racial/ethnic minorities and preterm births. This study can help inform Vitamin D policies during the pregnancy period to optimize offspring health. The project PI is Dr. Sina Gallo.

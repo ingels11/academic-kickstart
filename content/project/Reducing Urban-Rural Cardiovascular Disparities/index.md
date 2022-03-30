@@ -32,4 +32,4 @@ url_video: ""
 slides: example
 ---
 
-Work in Progress
+Rural populations have higher rates of mortality, prevalence, and economic burden of cardiovascular conditions compared to urban populations. The project goal is to reduce rural-urban disparities in cardiovascular disease by identifying effective clinical and public health interventions that can narrow these gaps in Georgia and New York.
