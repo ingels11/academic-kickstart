@@ -44,7 +44,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- "Director"
+- Director
 ---
 
 Dr. Thapa’s specialty is in policy oriented research primarily field and community based research, program planning and evaluation, and application of behavioral economics in addressing childhood obesity and food behavior.
