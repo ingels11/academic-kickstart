@@ -46,8 +46,8 @@ email: "dzhang@uga.edu"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-- Affiliated Faculty
+# user_groups:
+# - Affiliated Faculty
 ---
 
 Donglan "Stacy" Zhang is an assistant professor in the Department of Health Policy and Management. Her research focuses on estimating the economic burden of diseases and assessing the impact of health policies. 
