@@ -47,7 +47,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Affiliated Faculty
+- Post-Docs
 ---
 
 Sae's research interest include household and children food insecurity, household financial and health behaviors, consumer decision making, health economics, household economic well-being, quality of life among older adults, and emerging adults' relationship/financial/psychological well-being.
