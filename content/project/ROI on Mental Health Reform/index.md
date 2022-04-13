@@ -32,5 +32,5 @@ url_video: ""
 slides: example
 ---
 
-Work in Progress
+The researchers at EERG are assessing the cost of Behavioral Mental Health (BMH) among children and adolescents in the state of Georgia. Findings from this assessment will inform state policymakers on the cost-saving potential of BMH reform and intervention
 

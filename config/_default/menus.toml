@@ -22,7 +22,10 @@
   name = "Publications"
   url = "https://eerg.publichealth.uga.edu/publication/"
   weight = 40
-
+[[main]]
+  name = "News"
+  url = "Media"
+  weight = 50
 [[main]]
   name = "Contact"
   url = "#contact"
@@ -30,7 +33,7 @@
   
 [[main]]
   name = "Ongoing Projects"
-  url = "https://eerg.publichealth.uga.edu/project/Projects"
+  url = "https://eerg.publichealth.uga.edu/Projects/projects"
   weight = 60
 
 # Link to a PDF of your resume/CV from the menu.

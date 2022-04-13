@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "Projects"
-subtitle = ""
+subtitle = "EERG's Current Projects"
 
 [content]
   # Page type to display. E.g. project.
@@ -23,7 +23,7 @@ subtitle = ""
   
   [[content.filter_button]]
     name = "All"
-    tag = "eerg"
+    tag = "*"
   
   # [[content.filter_button]]
   #   name = "Deep Learning"

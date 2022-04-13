@@ -32,5 +32,4 @@ url_video: ""
 slides: example
 ---
 
-Work in Progress
-
+Obesity, hypertension, hyperlipidemia, and diabetes are prevalent among low-income and medically under-served populations. Despite the effectiveness of pharmaceutical care and behavioral therapy many individuals still struggle with disease management. We propose that using a technology enhanced health coaching intervention can assist in treatment and management of chronic diseases for vulnerable populations. We will be implementing text messaging and telemonitoring interventions in conjunction with existing interventions to evaluate the efficacy of technology enhanced therapies on residents of Clarke County as well as five surrounding counties.

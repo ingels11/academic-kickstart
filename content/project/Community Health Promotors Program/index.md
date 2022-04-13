@@ -32,6 +32,6 @@ url_video: ""
 slides: example
 ---
 
-Work in Progress
+In this project, we are conducting an economic evaluation of the Community Health Promoter (CHP) Program in Puerto Rico considering wider health-related activities to develop a business case for the sustainability and expansion of the program. The CHP Program is attempting to strengthen a community’s capacity to provide home and health center-based care for chronic care management, navigating social determinants of health and mental health, as well as disaster preparedness and resilience strategies for high-risk populations
 
 

@@ -42,5 +42,11 @@ Additional coverage of this work can be found at the following links:
 
 <a href="https://publichealth.uga.edu/athens-covid-19-hospitalizations-new-report/" target="_blank">UGA CPH News Release</a>
 
+[Trajectories of Medical School Application and Matriculation](https://eerg.publichealth.uga.edu/publication/thapa-2021-rurality/)
 
+[Implications for Health Disparities](https://eerg.publichealth.uga.edu/publication/thapa-2020-trends/)
+
+[Changes in the Rural and Urban Primary Care Workforce](https://eerg.publichealth.uga.edu/publication/thapa-2020-workforce/)
+
+[Evaluating the Impact of Improving Access to the Consumption of Fruits and Vegetables](https://eerg.publichealth.uga.edu/publication/katapodis-2019-evaluating/)
 
