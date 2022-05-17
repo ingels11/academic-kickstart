@@ -19,7 +19,7 @@ organizations:
 
 #   Select one of the following, remove the brackets but leave the quotes  
 user_groups:
-- ["Director", "Research Director", "Post-Docs"
+- ["Director", "Research Director", "Post-Docs",
    "Affiliated Faculty",
    "Graduate Students",
    "Alumni"]
